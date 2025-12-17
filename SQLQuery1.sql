@@ -108,5 +108,3 @@ INSERT INTO CourseInstructor (CourseID, InstructorID, Semester, AcademicYear) VA
 (3, 2, 'Fall', 2024);
 
 GO
-
-
